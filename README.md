@@ -1,5 +1,6 @@
 # Book-Manager
-A windows forms application for managing books.
+A windows forms application for managing books. Allows users to query, add, delete, and update books from 
+a MySQL database. 
 
 Created with the following:
 
